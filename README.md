@@ -3,6 +3,7 @@ COLMAP
 
 About
 -----
+Based on colmap. we further feed pose estimation from Vins-Mono into optimization loop to speed up colmap.
 
 COLMAP is a general-purpose Structure-from-Motion (SfM) and Multi-View Stereo
 (MVS) pipeline with a graphical and command-line interface. It offers a wide
